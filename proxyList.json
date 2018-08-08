@@ -1,0 +1,9 @@
+{
+    "siteToTest": "https:spotify.com",
+    "proxies": {
+        "123123": {"speed": 13, "result": "good"}, 
+        "asdfasdf": {"speed": 13, "result": "good"},
+        "123123123": {"speed": 13, "result": "good"}
+    }
+
+}
